@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**sudohunter/sudohunter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sudohunter&label=Profile%20views&color=0e75b6&style=flat" alt="MohammadAmin" /> </p>
 
-Here are some ideas to get you started:
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://github.com/sudohunter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="MohammadAmin Ashori" height="30" width="40" /></a>
+<a href="https://t.me/sudohunter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/7ec05081dcb25f30e71cd7200fcd360f5daf1111/src/images/icons/Social/telegram.svg" alt="MohammadAmin Ashori" height="30" width="40" /></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sudohunter&show_icons=true&theme=dark&locale=en&layout=compact" alt="MohammadAmin Ashori" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sudohunter&show_icons=true&theme=dark&locale=en" alt="MohammadAmin Ashori" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sudohunter&theme=dark" alt="MohammadAmin Ashori" /></p>
